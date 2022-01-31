@@ -1,0 +1,33 @@
+hero_name;role;short;colour
+Ana;support;ana;#6A83AD
+Ashe;damage;ashe;#54545B
+Baptiste;support;bap;#50AEC7
+Bastion;damage;bast;#6A7D6C
+Brigitte;support;brig;#7E4D4E
+D.Va;tank;dva;#F08AC3
+Doomfist;damage;doom;#814941
+Echo;damage;echo;#8DBEF0
+Genji;damage;genji;#87E431
+Hanzo;damage;hanzo;#BAB182
+Junkrat;damage;junk;#EEB947
+Lúcio;support;lucio;#81C847
+McCree;damage;cree;#B14F52
+Mei;damage;mei;#69A7EA
+Mercy;support;mercy;#F0E9B9
+Moira;support;moira;#8A61DD
+Orisa;tank;orisa;#3F8637
+Pharah;damage;pharah;#3574C4
+Reaper;damage;reaper;#7B3346
+Reinhardt;tank;rein;#88919A
+Roadhog;tank;hog;#B58345
+Sigma;tank;sig;#838F99
+Soldier: 76;damage;legs;#66718E
+Sombra;damage;sombra;#7050B5
+Symmetra;damage;sym;#8DBACB
+Torbjörn;damage;torb;#BE6963
+Tracer;damage;tracer;#CC8331
+Widowmaker;damage;widow;#8F569C
+Winston;tank;monkey;#A0A1B8
+Wrecking Ball;tank;ball;#D48432
+Zarya;tank;zarya;#ED78B1
+Zenyatta;support;zen;#F2E479
